@@ -17,42 +17,11 @@ The project's primary customer was **First Abu Dhabi Bank**, and the system was 
 - **Forgery Detection**: Compared document consistency against the database to identify potential forgeries.
 - **Scalability**: Delivered a Minimum Viable Product (MVP) and further enriched and scaled the system within the internship duration.
 
-## Technologies Used
-- **Programming Language**: Python
-- **Machine Learning**: Document classification algorithms
-- **Image Processing**: Algorithms for text extraction and document analysis
-- **Database Integration**: Validation against pre-confirmed customer databases
-
-## Workflow
-The project included the following steps:
-1. **Design Phase**: Conceptualized system architecture, selected algorithms, and outlined implementation plans.
-2. **Development Phase**: Wrote and tested the Python code to implement the system’s core functionalities.
-3. **Customization**: Tailored the module to the needs of First Abu Dhabi Bank, focusing on prevalent document types in the UAE.
-4. **Delivery**: Presented the MVP and scaled the system to improve performance and reliability.
-
-## Importance of Identity Verification
-Identity documentation, such as passports, ID cards, driver's licenses, and residence cards, plays a vital role in government and corporate operations. These documents enable individuals to cross borders, open bank accounts, and access government benefits. However, attempts to forge these documents are common, leading to inconsistencies and security risks. This system addresses these challenges by ensuring:
-- Accurate extraction and validation of identity information.
-- Detection of forgery attempts through database inconsistencies.
-
-## Supervisor
-The project was conducted under the supervision of **Onur Aydın (B.S. Electrical and Electronics Engineering, M.S. Computer Science)**.
-
 ## Documentation
 1. **Design Details**: The design process and implementation steps are documented in the project report.
-2. **Codebase**: All Python scripts are included in the appendices of the report.
+2. **Codebase**: All Python scripts are included in the codebase file.
 3. **References**: Resources used for design decisions are listed in the report's references section.
-
-## Future Work
-The system developed can be further enhanced by:
-- Expanding support for additional document types.
-- Improving classification accuracy with advanced machine learning models.
-- Integrating real-time processing for live verification scenarios.
 
 ## Conclusion
 This project was a valuable opportunity to explore the intersection of image processing and machine learning in the field of identity verification. It contributed to building a scalable and reliable KYC system that addresses real-world challenges in identity document validation.
-
----
-
-For more details, refer to the project report or contact [Amani Technologies Limited](https://www.amani.ai/).
 
